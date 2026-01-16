@@ -225,6 +225,7 @@ body {
 }
 .ordering__button:hover {
 	background-color: var(--primary-color);
+	color: #011f2e;
 }
 
 /* Navigation style surce */
