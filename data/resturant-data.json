@@ -1,0 +1,46 @@
+{
+	"openingHours": [
+		{
+			"dayOfWeek": "monday",
+			"open": "11:00",
+			"close": "22:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "tuesday",
+			"open": "11:00",
+			"close": "22:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "wednesday",
+			"open": "11:00",
+			"close": "22:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "thursday",
+			"open": "11:00",
+			"close": "22:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "friday",
+			"open": "11:00",
+			"close": "23:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "saturday",
+			"open": "11:00",
+			"close": "23:00",
+			"slotIntervalMinutes": 30
+		},
+		{
+			"dayOfWeek": "sunday",
+			"open": "12:00",
+			"close": "21:00",
+			"slotIntervalMinutes": 30
+		}
+	]
+}
