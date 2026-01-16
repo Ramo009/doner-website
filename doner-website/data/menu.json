@@ -1,0 +1,259 @@
+{
+	"categories": [
+		{
+			"name": "Drehspieß-Teller",
+			"image": "../public/drehspieß-teller.png",
+
+			"items": [
+				{
+					"name": "Drehspieß Teller ",
+					"description": "mit Reis oder Pommesmit und Salat",
+					"price": 11.0
+				},
+				{
+					"name": "Drehspieß Teller klein",
+					"description": "mit Pommes",
+					"price": 9.0
+				},
+				{
+					"name": "Drehspieß Teller holländisch",
+					"description": "mit Pommes, Erdnusssoße und Salat",
+					"price": 12.5
+				}
+			]
+		},
+		{
+			"name": "Drehspieß-Döner",
+			"image": "../public/donerr.png",
+			"items": [
+				{
+					"name": "Drehspieß Jumbo",
+					"description": "mit allem",
+					"price": 8.5
+				},
+				{
+					"name": "Drehspieß Döner",
+					"description": "mit allem",
+					"price": 6.5
+				},
+				{
+					"name": "Drehspieß Döner nur Fleisch",
+					"description": "ohne Salat",
+					"price": 8.0
+				},
+				{
+					"name": "Drehspieß Schüler Döner",
+					"description": "mit allem",
+					"price": 5.5
+				},
+				{
+					"name": "Vegetarisch",
+					"description": "mit allem",
+					"price": 6.0
+				},
+				{
+					"name": "Falafel",
+					"description": "mit allem",
+					"price": 6.5
+				}
+			]
+		},
+		{
+			"name": "Dürüm",
+			"image": "../public/dromm.png",
+			"items": [
+				{
+					"name": "Drehspieß Jumbo Dürüm",
+					"description": "mit allem",
+					"price": 8.5
+				},
+				{
+					"name": "Drehspieß Dürüm",
+					"description": "mit allem",
+					"price": 7.0
+				},
+				{
+					"name": "Pomm Roller",
+					"description": "mit allem",
+					"price": 7.5
+				}
+			]
+		},
+		{
+			"name": "Türkische-Pizza",
+			"image": "../public/turkish.png",
+			"items": [
+				{
+					"name": "Türkische Pizza mit Fleisch",
+					"description": "mit Salat",
+					"price": 7.0
+				},
+				{
+					"name": "Türkische Pizza vegetarisch",
+					"description": "mit Salat",
+					"price": 6.5
+				}
+			]
+		},
+		{
+			"name": "Pommes-Snacks",
+			"image": "../public/nagget.png",
+			"items": [
+				{
+					"name": "Pomm Box groß",
+					"description": "mit allem",
+					"price": 6.5
+				},
+				{
+					"name": "Pomm Box klein",
+					"description": "mit allem",
+					"price": 5.5
+				},
+				{
+					"name": "Pommes groß",
+					"description": "ohne alles",
+					"price": 4.5
+				},
+				{
+					"name": "Pommes klein",
+					"description": "ohne alles",
+					"price": 3.5
+				}
+			]
+		},
+		{
+			"name": "Hauptgerichte",
+			"image": "../public/hauptgerichte.png",
+			"items": [
+				{
+					"name": "Frikadelle 1 Stück mit Pommes",
+					"description": "mit Salat",
+					"price": 7.0
+				},
+				{
+					"name": "Falafel Teller mit Salat u. Pommes",
+					"description": "mit Salat",
+					"price": 8.0
+				},
+				{
+					"name": "Putenschnitzel mit Pommes u. Salat",
+					"description": "mit Salat",
+					"price": 8.5
+				},
+				{
+					"name": "Curry Wurst Rind",
+					"description": "mit Pommes",
+					"price": 7.0
+				},
+				{
+					"name": "Chicken Nuggets mit Pommes (10 Stück)",
+					"description": "mit Salat",
+					"price": 9.0
+				},
+				{
+					"name": "Chicken Nuggets (6 Stück)",
+					"description": "ohne Pommes",
+					"price": 5.0
+				}
+			]
+		},
+		{
+			"name": "Salate",
+			"image": "../public/salat.png",
+			"items": [
+				{
+					"name": "Gemischter Salat",
+					"description": "ohne Fleisch",
+					"price": 6.5
+				},
+				{
+					"name": "Puten Salat",
+					"description": "mit Putenstreifen",
+					"price": 8.0
+				}
+			]
+		},
+		{
+			"name": "Pizza",
+			"image": "../public/pizza.png",
+			"items": [
+				{
+					"name": "Party Pizza",
+					"description": "für 4 Personen",
+					"price": 35.0
+				},
+				{
+					"name": "Familie",
+					"description": "für 2-3 Personen",
+					"price": 25.0
+				},
+				{
+					"name": "Pizza groß",
+					"description": "Durchmesser 32 cm",
+					"price": 8.5
+				},
+				{
+					"name": "Pizza klein",
+					"description": "Durchmesser 26 cm",
+					"price": 6.5
+				},
+				{
+					"name": "Pita",
+					"description": "gefüllt mit Käse",
+					"price": 7.5
+				},
+				{
+					"name": "Pizza Brötchen",
+					"description": "4 Stück mit Käse",
+					"price": 8.5
+				},
+				{
+					"name": "Calzone klein",
+					"description": "gefüllt mit Käse",
+					"price": 8.0
+				},
+				{
+					"name": "Calzone groß",
+					"description": "gefüllt mit Käse",
+					"price": 10.0
+				},
+				{
+					"name": "Börek",
+					"description": "gefüllt mit Käse",
+					"price": 3.0
+				}
+			]
+		},
+		{
+			"name": "Sonstiges",
+			"items": [
+				{
+					"name": "Camper",
+					"description": "Drehspieß, Pommes, Salat, Soße",
+					"price": 9.0
+				}
+			]
+		},
+		{
+			"name": "Menüs",
+			"image": "../public/hähnchen.png",
+			"items": [
+				{
+					"name": "Hähnchen Menü ",
+					"description": "Mit Pommes + 1 Getränk",
+					"price": 9.0
+				},
+				{
+					"name": "Dürüm Menü ",
+					"description": "Mit Pommes + 1 Getränk",
+					"price": 10.0
+				},
+				{
+					"name": "Falafel Menü ",
+					"description": "Mit Pommes + 1 Getränk",
+					"price": 9.0
+				}
+			]
+		}
+	]
+}
