@@ -143,7 +143,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -175,7 +175,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -204,7 +204,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -233,7 +233,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -262,7 +262,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -291,7 +291,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -320,7 +320,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -349,7 +349,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
@@ -378,7 +378,7 @@ const displayMenu = (menuItems) => {
 						<tr>
 							<td>${item.name}</td>
 							<td>${item.description}</td>
-							<td>$${item.price.toFixed(2)}</td>
+							<td>€${item.price.toFixed(2)}</td>
 						</tr>
 						`,
 							)
