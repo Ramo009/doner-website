@@ -77,7 +77,7 @@ const loadingOverlay = function () {
 			<div class="active__contact">
 				<h2>Bestellung Jetzt</h2>
 				<p>Rufen Sie uns an unter: 
-				<a href="tel:+491234567890"><br> +49 123 456 7890</a></p>
+				<a href="tel:048415048"><br> 048415048</a></p>
 			</div>
 
 			
